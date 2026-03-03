@@ -1,3 +1,4 @@
 Role,NetID,LastName,FirstName
 boss,djeon4,Jeon,DongHyeon
 employee,taffet,Taffet,Sophia
+employee,zwaseem,Waseem,Zain
